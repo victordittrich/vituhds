@@ -2,7 +2,7 @@
 
 17y
 
-💻 Cursando Desenvolvimento de Sistemas
+💻 Studying Systems Development
 
 <div align="center">
   <a href="https://github.com/vituhds">
