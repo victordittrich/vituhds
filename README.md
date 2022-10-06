@@ -18,7 +18,7 @@
   <img align="center" alt="Vitu-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
    <img align="center" alt="Vitu-PHP" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg">
 
-  <img align="right" alt="vitu" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/925955447763120138/985581689218682940/larusso.jpg">
+
 </div>
   
   ##
