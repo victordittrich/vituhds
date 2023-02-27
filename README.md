@@ -2,7 +2,7 @@
 
 18y
 
-💻 Studying Systems Development
+💻 Computer Cience student
 
 <div align="center">
   <a href="https://github.com/vituhds">
