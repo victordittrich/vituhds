@@ -6,8 +6,6 @@
 
 <div align="center">
   <a href="https://github.com/vituhds">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vituhds&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-
 </div>
 <div style="display: inline_block; position:absolute; left:50%;"><br>
   <img align="center" alt="Vitu-CPP" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg">
