@@ -1,8 +1,8 @@
-🧑🏼 Victor Hugo
+🧑🏼 Victor Hugo   |  18y   |  💻 Computer Cience student
 
-18y
 
-💻 Computer Cience student
+
+
 
 <div align="center">
   <a href="https://github.com/vituhds">
