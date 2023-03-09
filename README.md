@@ -1,12 +1,8 @@
-🧑🏼 Victor Hugo   |  18y   |  💻 Computer Cience student
+🧑🏼 Victor Hugo   |  18y   |  💻 Computer Cience student <br>
+<a href="https://github.com/vituhds">
+My portfolio
+</a>
 
-
-
-
-
-<div align="center">
-  <a href="https://github.com/vituhds">
-</div>
 <div style="display: inline_block; position:absolute; left:50%;"><br>
   <img align="center" alt="Vitu-CPP" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg">
   <img align="center" alt="Vitu-Flutter" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg">
