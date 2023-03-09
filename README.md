@@ -1,5 +1,5 @@
 🧑🏼 Victor Hugo   |  18y   |  💻 Computer Cience student <br>
-<a href="https://vercel.com/vituhds/victor-portfolio">
+<a href="https://dittrich-portfolio.vercel.app/">
 My portfolio
 </a>
 
