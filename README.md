@@ -1,6 +1,9 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0FC2C0&height=120&section=header"/>
 <p align="center">
 Victor Hugo👱🏼‍♂️ | 18y | Computer Science
+  <br>
+  <br>
+  <a href="https://dittrich-portfolio.vercel.app/">PORTFOLIO </a>
 </p>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0FC2C0&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Victor+Hugo;I'm+18+years+old;I'm+from+Brazil;I'm+studying+Computer+Science;Be+Welcome!+:%29)](https://git.io/typing-svg)
