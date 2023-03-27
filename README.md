@@ -3,10 +3,10 @@
 Victor Hugo👱🏼‍♂️ | 18y | Computer Science
   <br>
   <br>
-  <a href="https://dittrich-portfolio.vercel.app/">PORTFOLIO </a>
+  <a href="https://dittrich-portfolio.vercel.app/">P O R T F O L I O </a>
 </p>
+<br>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0FC2C0&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Victor+Hugo;I'm+18+years+old;I'm+from+Brazil;I'm+studying+Computer+Science;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=vituhds&bg_color=0d1117&color=0FC2C0&line=0FC2C0&point=fff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
