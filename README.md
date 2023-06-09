@@ -8,10 +8,6 @@ Victor Hugo | 18y | Computer Science
 <br>
 
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=vituhds&bg_color=0d1117&color=0FC2C0&line=0FC2C0&point=fff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-
-
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=vituhds&show_icons=true&count_private=true&hide_border=true&title_color=0FC2C0&icon_color=0FC2C0&text_color=0FC2C0&bg_color=0d1117" alt="Victor Hugo github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vituhds&layout=compact&hide_border=true&title_color=0FC2C0&text_color=0FC2C0&bg_color=0d1117" />
